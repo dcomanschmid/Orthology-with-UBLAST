@@ -1,6 +1,6 @@
 ###########################################################################
 # Reciprocal Best Hits from "USEARCH/UBLAST" output                       #
-# proteome wide orthologs                                                 #       
+# genome-wide orthologs                                                   #       
 #	1. select only orthologs with alignment length of at least 50 AA  #
 # 	2. sort (on E-values) the query <> target ublast output           #
 # 		! BHQ: best hit/s of the query = target protein/s with    # 
